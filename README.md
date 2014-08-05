@@ -20,4 +20,9 @@ info links for sails
 非官方的，而且版本也是老的
 
 
+* [最好的资料](http://irlnathan.github.io/sailscasts/blog/archives/)
+
+尼玛，居然还有视频
+
+
 * [Introduction to Node and Sails.js - Part 1](https://www.youtube.com/watch?v=AcwlZQb-cmQ)
