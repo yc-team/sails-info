@@ -4,6 +4,10 @@ sails-info
 info links for sails
 
 
+* [Sails.js - Awesome MVC for Node.js](http://sethetter.com/sails-js/)
+
+水文一篇，不过提到了其他几个框架
+
 * [Introduction to Sails.js](http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390) 这篇文件比较老，部分可以参考
 
 
