@@ -1,4 +1,4 @@
-input some version changes here~
+## input some version changes here~
 
 * sails new project_name --linker in no longer work?
 
