@@ -23,4 +23,8 @@ module.exports = function(grunt) {
 };
 ```
 
+里面用到了[grunt-sync](https://github.com/tomusdrw/grunt-sync.git)
+
+> Grunt.js task providing one-way synchronization of directories. Instead of copying all files only those that has been changed are copied which actually results in much faster execution.
+
 都会编译到 .tmp/public下面
