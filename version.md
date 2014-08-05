@@ -27,4 +27,6 @@ module.exports = function(grunt) {
 
 > Grunt.js task providing one-way synchronization of directories. Instead of copying all files only those that has been changed are copied which actually results in much faster execution.
 
+它和grunt-contrib-copy类似，但是区别在只会copy那些变化的文件
+
 都会编译到 .tmp/public下面
