@@ -11,3 +11,9 @@
 > Sails starter app
 
 [github](https://github.com/ragulka/sails-starter-app)
+
+* sails-crud-api
+
+> Building a restful, json, crud, api from scratch.
+
+[github](https://github.com/irlnathan/sails-crud-api)
