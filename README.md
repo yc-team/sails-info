@@ -29,4 +29,13 @@ info links for sails
 尼玛，居然还有视频
 
 
+
+* [sailsCasts Answers: Ep5 - Where Should I Put the Assets in My Sails Project?](http://irlnathan.github.io/sailscasts/blog/2013/12/05/sailscasts-answers-ep5-where-should-i-put-the-assets-in-my-sails-project/)
+
+还是一篇老的
+
+
+
+
+
 * [Introduction to Node and Sails.js - Part 1](https://www.youtube.com/watch?v=AcwlZQb-cmQ)
