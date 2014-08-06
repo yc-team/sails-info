@@ -4,6 +4,11 @@ sails-info
 info links for sails
 
 
+#### assets相关：
+
+* [how to access assets/images from the view in Sails.js?](http://stackoverflow.com/questions/18786136/how-to-access-assets-images-from-the-view-in-sails-js)
+
+
 * [Sails.js - Awesome MVC for Node.js](http://sethetter.com/sails-js/)
 
 > 水文一篇，不过提到了其他几个框架
